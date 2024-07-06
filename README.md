@@ -26,7 +26,9 @@ With 4 years of experience in software development, I have contributed to Techno
 Education:
 
 Degree: Bachelor's degree in Computer Science Engineering
+
 Institution: Dr. Jivraj Mehta Institute of Technology
+
 Graduation Year: 2023
 
 
